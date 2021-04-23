@@ -6,7 +6,7 @@
   "dependencies": {
     "chance": "^1.1.7",
     "dotenv": "^8.2.0",
-    "eris": "^0.14.0",
+    "eris": "^0.14.1",
     "kahoot.js-updated": "^2.4.0"
   },
   "devDependencies": {},
